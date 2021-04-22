@@ -1,2 +1,2 @@
 # SpaceInvaders
-Clone SpaceInvaders
+Clone SpaceInvaders by Yauheni Bacharou
